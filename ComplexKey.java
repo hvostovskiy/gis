@@ -1,6 +1,7 @@
 import java.util.Objects;
 
 class ComplexKey<K1, K2> {
+
     private final K1 id;
     private final K2 name;
 
